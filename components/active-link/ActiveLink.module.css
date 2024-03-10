@@ -1,0 +1,7 @@
+.link{
+    @apply hover:underline hover:text-red-200 mr-2 transition-all;
+}
+
+.active-link {
+    @apply text-green-200;
+}
